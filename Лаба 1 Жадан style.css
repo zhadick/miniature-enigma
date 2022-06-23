@@ -1,0 +1,32 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: right;
+}
+h1 span{
+    color: red;
+}
+h3 span{
+    color: red;
+}
+img{
+    max-width: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.link__img{
+    display: block;
+    text-align: center;
+}
+.paragraph__first{
+    margin-bottom: 20px;
+}
+.p__second{
+    padding: 10px;
+}
+
